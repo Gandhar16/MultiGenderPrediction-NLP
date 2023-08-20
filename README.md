@@ -1,5 +1,3 @@
-# MultiLingualGenderPrediction-NLP
-
 # Analyzing Gender Representation in Multilingual Models
 
 This project includes the experiments described in the [paper](https://arxiv.org/pdf/2204.09168.pdf): 
